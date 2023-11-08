@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
 <!--
 **DaniParkHoJin/DaniParkHoJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
