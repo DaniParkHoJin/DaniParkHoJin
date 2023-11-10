@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-   <img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=TypeScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <!--
 **DaniParkHoJin/DaniParkHoJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
