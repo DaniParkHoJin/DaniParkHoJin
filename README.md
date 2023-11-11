@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=하느님께는%20모든%20것이%20가능하다%20&fontSize=60&animation=twinkling)
-
+<body>
 <h1>기술 스택</h1>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -28,3 +28,4 @@
 <img src="https://img.shields.io/badge/html5-E34F24?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
+</body>
