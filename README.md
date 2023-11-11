@@ -2,17 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=HO-JIN%20Park&fontAlign=70&stroke=00FF00)
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
 
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-   
-   <img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
-<!--
 **DaniParkHoJin/DaniParkHoJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
