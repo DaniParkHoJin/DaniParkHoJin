@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=하느님께는%20모든%20것이%20가능하다%20&fontSize=60&animation=twinkling)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<div style="display:flex; flex-direction:column; align-items:flex-conter;">
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
