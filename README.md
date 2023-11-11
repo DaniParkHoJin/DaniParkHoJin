@@ -28,7 +28,7 @@
 <h3 align="center">🔨Development Tools🔨</h3>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=svisualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/DBeaver-1F305F?style=for-the-badge&logo=DBeaver&logoColor=white">
 
