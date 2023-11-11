@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"></a>
 <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<br>
+<br></P>
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"></a>
 
