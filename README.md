@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
 <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"></a>
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<img src="https://img.shields.io/badge/noded.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <br></P>
 <p align="center">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"></a>
