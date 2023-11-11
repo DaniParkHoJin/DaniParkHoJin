@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/html5-E34F24?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<p align="center">Development Tools</p>
+<h3 align="center">🔨Development Tools🔨</h3>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=svisualstudio&logoColor=white">
