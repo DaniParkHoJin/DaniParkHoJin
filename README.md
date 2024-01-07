@@ -1,3 +1,5 @@
+![포트폴리오](https://github.com/DaniParkHoJin/DaniParkHoJin/assets/147026762/2de38fdf-8807-4c03-abf4-355ce92cf11a)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=하느님께는%20모든%20것이%20가능하다%20&fontSize=60&animation=twinkling)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
